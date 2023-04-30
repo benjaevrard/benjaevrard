@@ -2,7 +2,7 @@
 
 <hr>
 
-<b> Soy Java Developer TI de nivel 1
+<b> Soy Junior Java Developer TI de nivel 1
 
 <hr>
 <!--
