@@ -1,5 +1,10 @@
 ### Hola! Mi nombre es Benjamín 👋
 
+<hr>
+
+<b> Soy Java Developer TI de nivel 1
+
+<hr>
 <!--
 **benjaevrard/benjaevrard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
